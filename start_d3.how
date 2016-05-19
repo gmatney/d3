@@ -1,0 +1,10 @@
+#Start server hosting files in current folder
+python -m SimpleHTTPServer 8888 &
+
+#Open with preferred application
+http://localhost:8888/
+
+#Examples
+cygstart SimpleOrgDisplay.html
+explorer SimpleOrgDisplay.html
+
